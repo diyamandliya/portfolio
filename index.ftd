@@ -20,7 +20,7 @@
 -- navbar.header:
 logo: $assets.files.images.logo.svg
 logoURL: /YOUR_REPOSITORY_NAME
-header-item1: Home
+header-item1:diya mandliya
 header-item2: About
 header-item3: Blogs
 header-item4: Projects
@@ -124,7 +124,7 @@ link: https://instagram.com/YOUR_INSTAGRAM_USERNAME
 image: $assets.files.images.instagram.png
 
 -- social.social-button-wrapper:
-link: mailto:YOUR_EMAIL_ADDRESS
+link: mailto:diyamandliya711@gmail.com
 image: $assets.files.images.mail.png
 
 -- end: ftd.row
@@ -170,7 +170,7 @@ spacing.fixed.px: 20
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: I'm
-secondTitle: YOUR_NAME,
+secondTitle: diya mandliya,
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: frontend
